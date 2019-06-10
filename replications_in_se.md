@@ -32,3 +32,11 @@ Below we list other replication studies we know of but which have not yet been p
 
 1. ["Characterizing Logging Practices in Open-Source Software"](https://ieeexplore.ieee.org/document/6227202) by Ding Yuan, Soyeon Park, Yuanyuan Zhou. ICSE 2012. Replicated in:
     - ["Characterizing Logging Practices in Java-based Open Source Software Projects - a Replication Study in Apache Software Foundation"](https://www.eecs.yorku.ca/~chenfsd/resources/emse2016_chen.pdf) by Boyuan Chen, Zhen Ming (Jack) Jiang, EMSE 2017.
+    
+2. ["On the effectiveness of the test-first approach to programming"](https://ieeexplore.ieee.org/abstract/document/1423994/) by Hakan Erdogmus, Maurizio Morisio, Marco Torchiano. IEEE TSE 2005. Replicated in:
+    - ["A Replicated Experiment on the Effectiveness of Test-first Development"](https://ieeexplore.ieee.org/abstract/document/6681343) by Davide Fucci, Burak Turhan. ESEM 2013.
+    - ["On the role of tests in test-driven development: a differentiated and partial replication"](https://link.springer.com/article/10.1007/s10664-013-9259-7) by Davide Fucci, Burak Turhan. EMSE 2014.
+    - ["Conformance Factor in Test-driven Development: Initial
+Results from an Enhanced Replication"](https://dl.acm.org/citation.cfm?id=2601272) by Davide Fucci, Burak Turhan, Markku Oivo. EASE 2014.
+    - ["An External Replication on the Effects of Test-driven Development Using a Multi-site Blind Analysis Approach"](https://dl.acm.org/citation.cfm?id=2962592) by Davide Fucci, Giuseppe Scanniello, Simone Romano, Martin Shepperd, Boyce Sigweni, Fernando Uyaguari, Burak Turhan, Natalia Juristo, Markku Oivo. ESEM 2016.
+    
